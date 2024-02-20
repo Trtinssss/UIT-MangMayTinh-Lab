@@ -1,2 +1,1 @@
-# UIT-NMMMM-Lab
-Nhập môn mạng máy tính
+# Thực hành nhập môn mạng máy tính
